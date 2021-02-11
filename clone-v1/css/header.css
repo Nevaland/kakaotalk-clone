@@ -31,6 +31,11 @@
   width: 33%;
 }
 
+.top-header .header__bottom .header__column > i {
+  font-size: 22px;
+  margin-left: 5px;
+}
+
 .top-header .header__bottom i:hover {
   cursor: pointer;
 }
