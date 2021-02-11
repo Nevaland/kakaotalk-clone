@@ -2,4 +2,9 @@ body {
   font-family: "Open Sans", sans-serif;
   padding-top: 60px;
   padding-bottom: 60px;
+  -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
